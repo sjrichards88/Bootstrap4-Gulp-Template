@@ -1,0 +1,30 @@
+{
+  "name": "website-title",
+  "version": "1.0.0",
+  "description": "Website Title website",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Richards",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "bootstrap": "^4.0.0-alpha.6",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "jquery": "^3.2.1",
+    "postcss-flexbugs-fixes": "^2.1.1",
+    "tether": "^1.4.0"
+  }
+}
